@@ -69,3 +69,8 @@ henry-analytics-core/
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore rules
 └── README.md # This file
+
+## 📄 Dashboard PDF with Visuals
+
+You can view the dashboard screenshots and visual output here:  
+👉  [Dowmload the full PDF](<../../Downloads/Himalayan Expedition Analytics.pdf>)
