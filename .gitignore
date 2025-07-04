@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional: comment out if you want to track the CSVs
+*.csv
+
+# System/IDE
+.DS_Store
+Thumbs.db
+.vscode/
